@@ -30,6 +30,6 @@
 ---
 
 #### 📫 聯絡與社群 (Connect with me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%E5%93%B2%E5%AE%87-%E6%9E%97-aa6759441)
+[![LinkedIn]([https://www.linkedin.com/in/%E5%93%B2%E5%AE%87-%E6%9E%97-aa6759441](https://www.linkedin.com/in/che-yu-lin-aa6759441))
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/lin.zhe.yu.797698)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lincheyu39)
