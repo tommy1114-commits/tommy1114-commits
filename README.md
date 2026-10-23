@@ -10,8 +10,8 @@
 - 📷 **生活紀錄**：最近入手了行動相印機，享受實體相片帶來的溫度。
 
 #### 🏐 運動與球賽
-- 🏐 去年解鎖了 **C 級排球教練證**！週末偶爾回球場動動，也期待職排開季。
-- ⚾ 喜歡看棒球，特別是季後賽。
+- 🏐 去年解鎖了 **C 級排球教練證**，末偶爾回球場動動，也期待職排開季。
+- ⚾ 喜歡看棒球，CPBL、MLB、NPB。
 
 ---
 
@@ -32,4 +32,4 @@
 #### 📫 聯絡與社群 (Connect with me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%E5%93%B2%E5%AE%87-%E6%9E%97-aa6759441)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/lin.zhe.yu.797698)
-[![Instagram](https://www.instagram.com/lincheyu39/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lincheyu39)
